@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/quirktree/.github/raw/main/images/quirktree-banner-dark-transparent.png">
-  <img alt="Quirktree: making security a little more human" src="https://github.com/quirktree/.github/raw/main/images/quirktree-banner-light-transparent.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/quirktree/.github/raw/main/profile/images/quirktree-banner-dark-transparent.png">
+  <img alt="Quirktree: making security a little more human" src="https://github.com/quirktree/.github/raw/main/profile/images/quirktree-banner-light-transparent.png">
 </picture>
 
 # Open source from Quirktree
